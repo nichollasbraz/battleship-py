@@ -21,13 +21,13 @@ A Python implementation of the classic Battleship game developed as a final acad
 
 ## Run
 
-```bash
+```
 > python main.py
 ```
 ## How to Play
 
 Enter coordinates using the format:
-```bash
+```
 > A 1
 > C 4
 > F 6
