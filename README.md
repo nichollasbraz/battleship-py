@@ -20,7 +20,6 @@ A Python implementation of the classic Battleship game developed as a final acad
 • Menu navigation system.
 
 ## Run
-
 ```
 > python main.py
 ```
