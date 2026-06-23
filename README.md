@@ -20,13 +20,13 @@ A Python implementation of the classic Battleship game developed as a final acad
 • Menu navigation system.
 
 ## Run
-```
+```bash
 > python main.py
 ```
 ## How to Play
 
 Enter coordinates using the format:
-```
+```bash
 > A 1
 > C 4
 > F 6
@@ -35,10 +35,10 @@ The **letter** represents the row\
 The **number** represents the column.
 
 ### Symbols
-
-```█``` ➜ **Indicates positions that have not been explored yet**\
-```_```	➜ **Indicates water**\
-```X```	➜ **Indicates a successful hit.**
+ 
+**"█" ➜ Indicates positions that have not been explored yet**\
+**"_" ➜ Indicates water**\
+**"X" ➜ Indicates a successful hit.**
 
 Destroy all enemy ships to win the game. The objective is to locate and sink all enemy vessels hidden on the board using the fewest possible moves.
 
